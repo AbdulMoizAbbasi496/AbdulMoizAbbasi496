@@ -65,8 +65,8 @@ Here are some key projects I've worked on or am currently building:
 
 ### GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulMoizAbbasi496&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top-langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulMoizAbbasi496&show_icons=true&locale=en&layout=compact&theme=default" alt="top-langs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulMoizAbbasi496&show_icons=true&locale=en&theme=tokyonight" alt="github-stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulMoizAbbasi496&show_icons=true&locale=en&theme=default" alt="github-stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMoizAbbasi496&theme=tokyonight" alt="github-streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMoizAbbasi496&theme=default" alt="github-streak" /></p>
