@@ -1,45 +1,54 @@
+![logo](https://github.com/AbdulMoizAbbasi496/AbdulMoizAbbasi496/blob/main/linkedin_banner.png)
+
 <h1 align="center">Hi 👋, I'm Abdul Moiz Abbasi</h1>
-<h3 align="center">A passionate BS in AI student, coder & tech enthusiast</h3>
+<h3 align="center">CUI AI '27 | AI/ML Student | Exploring the Trends & Future of Artificial Intelligence</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=BS+in+Artificial+Intelligence+Student;React+%7C+Python+%7C+Machine+Learning;Building+cool+AI+and+web+projects" alt="Typing SVG" />
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulMoizAbbasi496&label=Profile%20views&color=0e75b6&style=flat" alt="AbdulMoizAbbasi496" /> </p>
+
+- 👨‍🎓 I'm currently pursuing a Bachelor's in Artificial Intelligence from **COMSATS University Islamabad**
+
+- 🤖 Exploring **Machine Learning**, **Data Science**, and **Intelligent Systems Design**
+
+- 💻 Working on **ML-based mini projects** and **front-end development**
+
+- 🔭 Most comfortable with **Python**, **Java**, **C++**, and data libraries like **Pandas**, **NumPy**, and **Matplotlib**
+
+- 🌐 I’ve also built basic websites using **HTML**, **CSS**, and **JavaScript**
+
+- 📫 Reach me at: **moiz45573@gmail.com**
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/abdul-moiz-abbasi-a78752288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-moiz-abbasi" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 🧠 About Me
-- 🎓 Pursuing **BS in Artificial Intelligence**
-- 🌱 Currently learning **React.js**, **Tailwind CSS**, and **Machine Learning**
-- 🚀 Interested in building real-world AI + Web apps
-- 🧑‍💻 Currently working on: `Portfolio website` and `Mini ML Projects`
-- 📫 Reach me at: `youremail@example.com`
-
----
-
-### 🔧 Tech Stack
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-
----
-
-### 📂 Featured Projects
-| Project | Description |
-|--------|-------------|
-| [AI Chatbot](#) | A basic chatbot built using Python and NLP |
-| [Portfolio Website](#) | Responsive personal site built with React + Tailwind |
-| [ML Projects Repo](#) | Collection of small machine learning projects |
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulMoizAbbasi496&show_icons=true&theme=tokyonight" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a>
 </p>
 
 ---
 
-### ⚡ Fun Fact
-> I break things to learn how to build them better 😄
+<h3 align="left">GitHub Stats:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulMoizAbbasi496&show_icons=true&locale=en&layout=compact" alt="top-langs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulMoizAbbasi496&show_icons=true&locale=en" alt="github-stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMoizAbbasi496&" alt="github-streak" /></p>
